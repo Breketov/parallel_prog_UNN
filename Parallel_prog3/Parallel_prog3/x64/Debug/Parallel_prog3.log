@@ -1,0 +1,4 @@
+﻿D:\Table\Barkalov\Parallel_prog3\HeatEqu_Cr_Nic_Reduc.cpp(12,11): : warning : unused variable 'num_thread' [-Wunused-const-variable]
+     12 | const int num_thread = 4;
+        |           ^~~~~~~~~~
+  1 warning generated.

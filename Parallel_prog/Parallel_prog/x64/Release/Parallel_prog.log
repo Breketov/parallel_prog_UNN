@@ -1,0 +1,5 @@
+﻿D:\Table\Barkalov\Parallel_prog\Lu_decomposition.cpp(314,13): : warning : unused variable 'As' [-Wunused-variable]
+    314 |     double* As = new double[n*n];
+        |             ^~
+  1 warning generated.
+  Parallel_prog.vcxproj -> D:\Table\Barkalov\Parallel_prog\x64\Release\Parallel_prog.exe
